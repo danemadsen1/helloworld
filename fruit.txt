@@ -1,4 +1,7 @@
 apple
 banana
 orange
+peach
+apricot
+grape
 
